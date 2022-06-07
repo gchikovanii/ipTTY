@@ -1,0 +1,31 @@
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\bin\Debug\ipTTY.exe.config
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\bin\Debug\ipTTY.exe
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\bin\Debug\ipTTY.pdb
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.csproj.AssemblyReference.cache
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.csproj.SuggestedBindingRedirects.cache
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.MainPage.resources
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.Properties.Resources.resources
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.csproj.GenerateResource.cache
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.exe
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.pdb
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.DialForm.resources
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.InfoForm.resources
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.SpeedDialForm.resources
+D:\Full-Stack\Visual studio 2022\FreelanceProjects\ipTTY\ipTTY\obj\Debug\ipTTY.SettingsForm.resources
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\bin\Debug\ipTTY.exe.config
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\bin\Debug\ipTTY.exe
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\bin\Debug\ipTTY.pdb
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.csproj.AssemblyReference.cache
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.csproj.SuggestedBindingRedirects.cache
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.DialForm.resources
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.MainPage.resources
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.InfoForm.resources
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.Properties.Resources.resources
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.SettingsForm.resources
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.SpeedDialForm.resources
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.csproj.GenerateResource.cache
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.csproj.CoreCompileInputs.cache
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.exe
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.pdb
+C:\Users\GS SHOP\Downloads\ipTTY-main\ipTTY-main\ipTTY\obj\Debug\ipTTY.Lisence.resources
